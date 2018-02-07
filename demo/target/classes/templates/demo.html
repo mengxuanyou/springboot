@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<body>
+<tr  th:each="user : ${users}">
+    <td th:text="'id : ' + ${user.id}">Mark</td>
+    <td th:text="'name : ' + ${user.name}">Mark</td>
+    <br/>
+</tr>
+</body>
+</html>

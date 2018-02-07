@@ -1,0 +1,7 @@
+com\wbkit\bigscreen\entity\User.class
+com\wbkit\bigscreen\BigScreenApplication.class
+com\wbkit\bigscreen\services\impl\UserServiceImpl.class
+com\wbkit\bigscreen\controller\TestController.class
+com\wbkit\bigscreen\mapper\UserMapper.class
+com\wbkit\bigscreen\services\UserService.class
+com\wbkit\bigscreen\util\Connection2hbase.class
